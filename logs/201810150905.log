@@ -1,0 +1,166 @@
+2018-10-15 09:05:18,924- BrowserEngine - INFO - 你已经选择了浏览器：Chrome：
+2018-10-15 09:05:18,925- BrowserEngine - INFO - 要输入的URL是：http://127.0.0.1/upload/forum.php
+2018-10-15 09:05:21,574- BrowserEngine - INFO - 找到Chrome的WebDriver。
+2018-10-15 09:05:27,425- BrowserEngine - INFO - 成功打开URL：http://127.0.0.1/upload/forum.php
+2018-10-15 09:05:28,541- BrowserEngine - INFO - 窗口最大化。
+2018-10-15 09:05:28,543- BrowserEngine - INFO - 等待3秒。
+2018-10-15 09:05:42,112- BasePage - ERROR - <pageobject.baidu_homebase.HomeBase object at 0x0000019D3D0C2FD0>页面中未找到('id', 'kw')元素
+2018-10-15 09:05:44,309- BrowserEngine - INFO - 你已经选择了浏览器：Chrome：
+2018-10-15 09:05:44,309- BrowserEngine - INFO - 要输入的URL是：http://127.0.0.1/upload/forum.php
+2018-10-15 09:05:46,502- BrowserEngine - INFO - 找到Chrome的WebDriver。
+2018-10-15 09:05:52,683- BrowserEngine - INFO - 成功打开URL：http://127.0.0.1/upload/forum.php
+2018-10-15 09:05:53,796- BrowserEngine - INFO - 窗口最大化。
+2018-10-15 09:05:53,797- BrowserEngine - INFO - 等待3秒。
+2018-10-15 09:05:53,824- BasePage - INFO - 找到元素：('id', 'ls_username')
+2018-10-15 09:05:53,949- BasePage - INFO - 文本输入成功：admin
+2018-10-15 09:05:53,976- BasePage - INFO - 找到元素：('id', 'ls_password')
+2018-10-15 09:05:54,050- BasePage - INFO - 文本输入成功：admin
+2018-10-15 09:05:54,077- BasePage - INFO - 找到元素：('css selector', '#lsform > div > div > table > tbody > tr:nth-child(2) > td.fastlg_l > button')
+2018-10-15 09:05:54,122- BasePage - INFO - 点击完成。
+2018-10-15 09:05:54,126- BasePage - INFO - 激活窗口成功。
+2018-10-15 09:06:05,369- BasePage - INFO - 找到元素：('css selector', '.fl_tb tr:nth-last-child(2) td:nth-child(2) a')
+2018-10-15 09:06:17,421- BasePage - INFO - 点击完成。
+2018-10-15 09:06:17,446- BasePage - INFO - 找到元素：('name', 'subject')
+2018-10-15 09:06:17,541- BasePage - INFO - 文本输入成功：哈哈哈——1
+2018-10-15 09:06:17,567- BasePage - INFO - 找到元素：('name', 'message')
+2018-10-15 09:06:17,661- BasePage - INFO - 文本输入成功：我最帅！！！！
+2018-10-15 09:06:17,687- BasePage - INFO - 找到元素：('xpath', '//*[@id="fastpostsubmit"]')
+2018-10-15 09:06:29,841- BasePage - INFO - 点击完成。
+2018-10-15 09:06:32,861- BasePage - INFO - 找到元素：('name', 'message')
+2018-10-15 09:06:32,978- BasePage - INFO - 文本输入成功：嘻嘻，你说的很对！！！
+2018-10-15 09:06:33,007- BasePage - INFO - 找到元素：('name', 'replysubmit')
+2018-10-15 09:06:33,333- BasePage - INFO - 点击完成。
+2018-10-15 09:06:36,358- BasePage - INFO - 找到元素：('css selector', '.wp div p a:nth-child(18)')
+2018-10-15 09:06:49,620- BasePage - INFO - 点击完成。
+2018-10-15 09:06:51,852- BrowserEngine - INFO - 你已经选择了浏览器：Chrome：
+2018-10-15 09:06:51,852- BrowserEngine - INFO - 要输入的URL是：http://127.0.0.1/upload/forum.php
+2018-10-15 09:06:54,073- BrowserEngine - INFO - 找到Chrome的WebDriver。
+2018-10-15 09:06:59,708- BrowserEngine - INFO - 成功打开URL：http://127.0.0.1/upload/forum.php
+2018-10-15 09:07:00,820- BrowserEngine - INFO - 窗口最大化。
+2018-10-15 09:07:00,822- BrowserEngine - INFO - 等待3秒。
+2018-10-15 09:07:00,848- BasePage - INFO - 找到元素：('id', 'ls_username')
+2018-10-15 09:07:00,954- BasePage - INFO - 文本输入成功：admin
+2018-10-15 09:07:00,981- BasePage - INFO - 找到元素：('id', 'ls_password')
+2018-10-15 09:07:01,050- BasePage - INFO - 文本输入成功：admin
+2018-10-15 09:07:01,077- BasePage - INFO - 找到元素：('css selector', '#lsform > div > div > table > tbody > tr:nth-child(2) > td.fastlg_l > button')
+2018-10-15 09:07:01,124- BasePage - INFO - 点击完成。
+2018-10-15 09:07:01,128- BasePage - INFO - 激活窗口成功。
+2018-10-15 09:07:12,648- BasePage - INFO - 找到元素：('css selector', '.fl_tb tr:nth-last-child(2) td:nth-child(2) a')
+2018-10-15 09:07:24,489- BasePage - INFO - 点击完成。
+2018-10-15 09:07:24,514- BasePage - INFO - 找到元素：('css selector', '#threadlisttableid tbody:nth-child(2)  td:nth-child(2)')
+2018-10-15 09:07:24,556- BasePage - INFO - 点击完成。
+2018-10-15 09:07:24,585- BasePage - INFO - 找到元素：('css selector', '.bm_c div#mdly p a:nth-child(1)')
+2018-10-15 09:07:24,928- BasePage - INFO - 点击完成。
+2018-10-15 09:07:24,962- BasePage - INFO - 找到元素：('id', 'modsubmit')
+2018-10-15 09:07:35,912- BasePage - INFO - 点击完成。
+2018-10-15 09:07:35,943- BasePage - INFO - 找到元素：('id', 'mn_forum')
+2018-10-15 09:07:47,338- BasePage - INFO - 点击完成。
+2018-10-15 09:07:49,363- BasePage - INFO - 找到元素：('css selector', '.wp div p a:nth-child(16)')
+2018-10-15 09:07:49,431- BasePage - INFO - 点击完成。
+2018-10-15 09:07:49,438- BasePage - INFO - 切换窗口1成功。
+2018-10-15 09:07:50,478- BasePage - INFO - 找到元素：('name', 'admin_password')
+2018-10-15 09:07:50,535- BasePage - INFO - 文本输入成功：admin
+2018-10-15 09:07:50,559- BasePage - INFO - 找到元素：('name', 'submit')
+2018-10-15 09:08:13,102- BasePage - INFO - 点击完成。
+2018-10-15 09:08:15,127- BasePage - INFO - 找到元素：('css selector', '.mainhd li:nth-child(7)')
+2018-10-15 09:08:15,278- BasePage - INFO - 点击完成。
+2018-10-15 09:08:15,290- BasePage - INFO - 切换iframe成功。
+2018-10-15 09:08:15,314- BasePage - INFO - 找到元素：('css selector', '.lastboard a')
+2018-10-15 09:08:15,413- BasePage - INFO - 点击完成。
+2018-10-15 09:08:15,439- BasePage - INFO - 找到元素：('css selector', '.container form table tbody:nth-child(3) tr:nth-last-child(2) td:nth-child(3) input')
+2018-10-15 09:08:15,476- BasePage - INFO - 文本已经清除
+2018-10-15 09:08:15,491- BasePage - INFO - 找到元素：('css selector', '.container form table tbody:nth-child(3) tr:nth-last-child(2) td:nth-child(3) input')
+2018-10-15 09:08:15,563- BasePage - INFO - 文本输入成功：我的最帅模块！
+2018-10-15 09:08:15,587- BasePage - INFO - 找到元素：('id', 'submit_editsubmit')
+2018-10-15 09:08:15,774- BasePage - INFO - 点击完成。
+2018-10-15 09:08:15,777- BasePage - INFO - 退出iframe成功。
+2018-10-15 09:08:17,801- BasePage - INFO - 找到元素：('css selector', '.uinfo p:nth-child(1) a')
+2018-10-15 09:08:23,361- BasePage - INFO - 点击完成。
+2018-10-15 09:08:25,385- BasePage - INFO - 找到元素：('css selector', '.wp div p a:nth-child(18)')
+2018-10-15 09:08:33,221- BasePage - INFO - 点击完成。
+2018-10-15 09:08:35,245- BasePage - INFO - 找到元素：('id', 'ls_username')
+2018-10-15 09:08:35,326- BasePage - INFO - 文本输入成功：admin1
+2018-10-15 09:08:35,352- BasePage - INFO - 找到元素：('id', 'ls_password')
+2018-10-15 09:08:35,413- BasePage - INFO - 文本输入成功：admin1
+2018-10-15 09:08:35,438- BasePage - INFO - 找到元素：('css selector', '#lsform > div > div > table > tbody > tr:nth-child(2) > td.fastlg_l > button')
+2018-10-15 09:08:35,483- BasePage - INFO - 点击完成。
+2018-10-15 09:08:35,487- BasePage - INFO - 激活窗口成功。
+2018-10-15 09:08:47,694- BasePage - INFO - 找到元素：('css selector', '.fl_tb tr:nth-last-child(2) td:nth-child(2) a')
+2018-10-15 09:08:59,292- BasePage - INFO - 点击完成。
+2018-10-15 09:08:59,318- BasePage - INFO - 找到元素：('name', 'subject')
+2018-10-15 09:08:59,401- BasePage - INFO - 文本输入成功：我最帅！哈哈哈
+2018-10-15 09:08:59,427- BasePage - INFO - 找到元素：('name', 'message')
+2018-10-15 09:08:59,509- BasePage - INFO - 文本输入成功：是的！你说的没错。
+2018-10-15 09:08:59,543- BasePage - INFO - 找到元素：('xpath', '//*[@id="fastpostsubmit"]')
+2018-10-15 09:09:11,300- BasePage - INFO - 点击完成。
+2018-10-15 09:09:16,326- BasePage - INFO - 找到元素：('name', 'message')
+2018-10-15 09:09:16,421- BasePage - INFO - 文本输入成功：嘻嘻，你说的很对！！！
+2018-10-15 09:09:16,449- BasePage - INFO - 找到元素：('name', 'replysubmit')
+2018-10-15 09:09:16,629- BasePage - INFO - 点击完成。
+2018-10-15 09:09:27,184- BasePage - ERROR - <pageobject.luntan_user_quit.QuitPage object at 0x0000019D3D108EF0>页面中未找到('css selector', '.wp div p a:nth-child(18)')元素
+2018-10-15 09:09:27,184- BasePage - ERROR - 点击出错：'NoneType' object has no attribute 'click'
+2018-10-15 09:09:31,432- BrowserEngine - INFO - 你已经选择了浏览器：Chrome：
+2018-10-15 09:09:31,432- BrowserEngine - INFO - 要输入的URL是：http://127.0.0.1/upload/forum.php
+2018-10-15 09:09:33,580- BrowserEngine - INFO - 找到Chrome的WebDriver。
+2018-10-15 09:09:39,992- BrowserEngine - INFO - 成功打开URL：http://127.0.0.1/upload/forum.php
+2018-10-15 09:09:41,106- BrowserEngine - INFO - 窗口最大化。
+2018-10-15 09:09:41,107- BrowserEngine - INFO - 等待3秒。
+2018-10-15 09:09:41,132- BasePage - INFO - 找到元素：('id', 'ls_username')
+2018-10-15 09:09:41,237- BasePage - INFO - 文本输入成功：admin
+2018-10-15 09:09:41,264- BasePage - INFO - 找到元素：('id', 'ls_password')
+2018-10-15 09:09:41,324- BasePage - INFO - 文本输入成功：admin
+2018-10-15 09:09:41,349- BasePage - INFO - 找到元素：('css selector', '#lsform > div > div > table > tbody > tr:nth-child(2) > td.fastlg_l > button')
+2018-10-15 09:09:41,397- BasePage - INFO - 点击完成。
+2018-10-15 09:09:41,401- BasePage - INFO - 激活窗口成功。
+2018-10-15 09:09:41,425- BasePage - INFO - 找到元素：('css selector', '#scbar_form > table > tbody > tr > td.scbar_btn_td')
+2018-10-15 09:09:46,973- BasePage - INFO - 点击完成。
+2018-10-15 09:09:49,977- BasePage - INFO - 切换窗口1成功。
+2018-10-15 09:09:51,015- BasePage - INFO - 找到元素：('id', 'scform_srchtxt')
+2018-10-15 09:09:51,081- BasePage - INFO - 文本输入成功：我最帅！哈哈哈
+2018-10-15 09:09:54,106- BasePage - INFO - 找到元素：('css selector', '#scform_form > tbody > tr > td.td_srchbtn')
+2018-10-15 09:10:00,066- BasePage - INFO - 点击完成。
+2018-10-15 09:10:03,092- BasePage - INFO - 找到元素：('css selector', '.pbw h3 a:nth-child(1)')
+2018-10-15 09:10:03,152- BasePage - INFO - 点击完成。
+2018-10-15 09:10:03,156- BasePage - INFO - 切换窗口2成功。
+2018-10-15 09:10:04,185- BasePage - INFO - 标题一致。
+2018-10-15 09:10:04,224- BasePage - INFO - 找到元素：('css selector', '.wp div p a:nth-child(18)')
+2018-10-15 09:10:18,040- BasePage - INFO - 点击完成。
+2018-10-15 09:10:20,258- BrowserEngine - INFO - 你已经选择了浏览器：Chrome：
+2018-10-15 09:10:20,259- BrowserEngine - INFO - 要输入的URL是：http://127.0.0.1/upload/forum.php
+2018-10-15 09:10:22,494- BrowserEngine - INFO - 找到Chrome的WebDriver。
+2018-10-15 09:10:28,804- BrowserEngine - INFO - 成功打开URL：http://127.0.0.1/upload/forum.php
+2018-10-15 09:10:29,925- BrowserEngine - INFO - 窗口最大化。
+2018-10-15 09:10:29,926- BrowserEngine - INFO - 等待3秒。
+2018-10-15 09:10:29,953- BasePage - INFO - 找到元素：('id', 'ls_username')
+2018-10-15 09:10:30,063- BasePage - INFO - 文本输入成功：admin
+2018-10-15 09:10:30,095- BasePage - INFO - 找到元素：('id', 'ls_password')
+2018-10-15 09:10:30,164- BasePage - INFO - 文本输入成功：admin
+2018-10-15 09:10:30,189- BasePage - INFO - 找到元素：('css selector', '#lsform > div > div > table > tbody > tr:nth-child(2) > td.fastlg_l > button')
+2018-10-15 09:10:30,231- BasePage - INFO - 点击完成。
+2018-10-15 09:10:30,234- BasePage - INFO - 激活窗口成功。
+2018-10-15 09:10:41,145- BasePage - INFO - 找到元素：('css selector', '.fl_tb tr:nth-last-child(2) td:nth-child(2) a')
+2018-10-15 09:10:52,356- BasePage - INFO - 点击完成。
+2018-10-15 09:10:55,384- BasePage - INFO - 找到元素：('css selector', '#newspecial')
+2018-10-15 09:11:06,906- BasePage - INFO - 点击完成。
+2018-10-15 09:11:09,931- BasePage - INFO - 找到元素：('css selector', '#editorbox > ul li:nth-child(2) a')
+2018-10-15 09:11:20,518- BasePage - INFO - 点击完成。
+2018-10-15 09:11:22,542- BasePage - INFO - 找到元素：('css selector', '#postbox > div.pbt.cl > div input')
+2018-10-15 09:11:22,717- BasePage - INFO - 文本输入成功：****我最帅****
+2018-10-15 09:11:24,742- BasePage - INFO - 找到元素：('css selector', '#pollm_c_1 > p:nth-child(1) > input')
+2018-10-15 09:11:24,815- BasePage - INFO - 文本输入成功：是的！
+2018-10-15 09:11:26,839- BasePage - INFO - 找到元素：('css selector', '#pollm_c_1 > p:nth-child(2) > input')
+2018-10-15 09:11:26,901- BasePage - INFO - 文本输入成功：对滴
+2018-10-15 09:11:28,926- BasePage - INFO - 找到元素：('css selector', '#pollm_c_1 > p:nth-child(3) > input')
+2018-10-15 09:11:28,991- BasePage - INFO - 文本输入成功：非常对
+2018-10-15 09:11:31,015- BasePage - INFO - 找到元素：('css selector', '#postsubmit')
+2018-10-15 09:11:31,121- BasePage - INFO - 点击完成。
+2018-10-15 09:11:42,763- BasePage - INFO - 找到元素：('css selector', '#option_3')
+2018-10-15 09:11:42,811- BasePage - INFO - 点击完成。
+2018-10-15 09:11:44,835- BasePage - INFO - 找到元素：('css selector', '#pollsubmit')
+2018-10-15 09:11:56,316- BasePage - INFO - 点击完成。
+2018-10-15 09:11:58,356- BasePage - INFO - 1.  是的！
+2018-10-15 09:11:58,394- BasePage - INFO - 0.00% (0)
+2018-10-15 09:11:58,435- BasePage - INFO - 2.  对滴
+2018-10-15 09:11:58,474- BasePage - INFO - 0.00% (0)
+2018-10-15 09:11:58,507- BasePage - INFO - 3.  非常对
+2018-10-15 09:11:58,542- BasePage - INFO - 100.00% (1)
